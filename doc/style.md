@@ -97,7 +97,7 @@ public int method(String p1) { ... }
 
 Write documentation as if the person reading it knows more about Scala and
 Chisel than you. If you find comments in the code consider breaking them up
-into seperate methods.
+into separate methods.
 
 ## Module Classes and Instances
 
